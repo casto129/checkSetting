@@ -1,4 +1,4 @@
-// Checking WebBrowser and MachineType
+// checkSetting v1.0.4
 
 function isMobile(){
     var mFilter = "win16|win32|win64|mac";
