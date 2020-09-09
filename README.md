@@ -6,6 +6,7 @@
 <a href="#">
   <img src="https://img.shields.io/badge/jsDelivr-v1.0.4-blue">
 </a>
+
 ## How To Use
 Copy & Paste the below URL in the script tag
 
