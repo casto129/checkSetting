@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/jsDelivr-v1.0.4-blue">
 </a>
 
+A simple JS Library that helps you to know the platform of yours.
 ## How To Use
 Copy & Paste the below URL in the script tag
 
