@@ -1,6 +1,6 @@
 # checkSetting
 ---
-![APM](https://img.shields.io/apm/l/vim-mode)
+<img alt="APM" src="https://img.shields.io/apm/l/vim-mode">
 ---
 ## How To Use
 Copy & Paste the below URL in the script tag
